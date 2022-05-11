@@ -1,4 +1,4 @@
-# Movie Studio Computer Science 163: Introduction Computer Programming
+# Movie Studio Computer Science 163: Introduction to Computer Programming
 My third project for COMP 163 where I create a movie premiere schedule for a film studio.
 
 ## ⚠️Warning⚠️
