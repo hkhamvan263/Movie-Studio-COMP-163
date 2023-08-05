@@ -3,11 +3,8 @@ My third and final project for COMP 163 where I create a movie premiere schedule
 
 ## Instructions:
 1. Enter the name of your studio.
-2. Enter the season you have a schedule for.
-3. Enter '1' to add a movie.
-4. Enter '2' to schedule a movie.
-5. Enter '3' to postpone a movie.
-6. Enter '4' to display the company summary.
+2. Enter the season you have a schedule for
+3. Enter 1 to add a movie, 2 to schedule a movie premiere, 3 to postpone a movie premiere, 4 for a company summary, 5 to finish.
 
 ## ⚠️Warning⚠️
 Submitting this project as an assignment or for a hackathon or an internship is a violation of Honor Code and prohibited.
